@@ -7,6 +7,10 @@ def reverseName(myName):
   
   result = myName
   return result
+myString = "Orion"
+print(myString)
+print(len(myString))
+print(myString(len(myString)-1))
 
 # Returns a float value that is the contents of the myAge variable square rooted
 # ie: passing 16 as the parameter would return 4.0
